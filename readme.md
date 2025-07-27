@@ -1,5 +1,4 @@
 ﻿* [Cabdu Qaadir Ibrahim](https://github.com/icabduqaadir12/JavaScript30) – Working through JavaScript30 with added features. 
-[Live Demo]()
 
 
 ## 🧠 My Contributions
